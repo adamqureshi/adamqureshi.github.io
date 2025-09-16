@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "why i keep it small (and win)"
-date: 2025-09-16 13:30:00 -0400
+date: 2025-09-16 
 categories: [business]
 tags: [one-person, playbook]
 ---
