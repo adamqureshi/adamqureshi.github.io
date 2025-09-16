@@ -1,4 +1,10 @@
 url: "https://adamqureshi.com"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+header_pages:
+  - about.md
+url: "https://adamqureshi.com"
 header_pages:
   - about.md
  title: "Adam Qureshi"
