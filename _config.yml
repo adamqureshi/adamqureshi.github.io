@@ -1,4 +1,13 @@
 url: "https://adamqureshi.com"
+timezone: "America/New_York"
+permalink: /:categories/:title/
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+header_pages:
+  - about.md
+ url: "https://adamqureshi.com"
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
