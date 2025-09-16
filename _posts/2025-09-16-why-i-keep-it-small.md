@@ -7,4 +7,4 @@ tags: [one-person, playbook]
 ---
 
 
-staying small lets me move first. i change the product in a day, not a quarter. i don’t ask for permission. i ship, learn, and ship again. small means i know every customer by name and fix things fast. the edge isn’t headcount—it’s focus.
+staying small lets me move first. i change the product in a day, not a quarter. i don’t ask for permission. i ship, learn, and ship again. small means i know every customer by name and fix things fast. the edge isn’t headcount—it’s focus. keep testing. Keep winning. 
