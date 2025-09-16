@@ -1,22 +1,18 @@
-url: "https://adamqureshi.com"
-timezone: "America/New_York"
+title: Adam Qureshi
+description: Notes on building, selling, and staying small on purpose.
+author: Adam Qureshi
+theme: minima
+
+url: https://adamqureshi.com
+timezone: America/New_York
 permalink: /:categories/:title/
+future: false
+
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
+
 header_pages:
   - about.md
- url: "https://adamqureshi.com"
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
-header_pages:
-  - about.md
-url: "https://adamqureshi.com"
-header_pages:
-  - about.md
- title: "Adam Qureshi"
-description: "Notes on building, selling, and staying small on purpose."
-theme: minima
-author: "Adam Qureshi"
+
