@@ -3,4 +3,4 @@ layout: home
 title: Home
 ---
 
-Welcome. New posts below.
+You not famous. You not rich. 
