@@ -1,4 +1,7 @@
-title: "Adam Qureshi"
+url: "https://adamqureshi.com"
+header_pages:
+  - about.md
+ title: "Adam Qureshi"
 description: "Notes on building, selling, and staying small on purpose."
 theme: minima
 author: "Adam Qureshi"
