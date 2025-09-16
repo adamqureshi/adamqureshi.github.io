@@ -1,10 +1,12 @@
-
+---
 layout: post
 title: "the one-person business + sales manifesto (draft 0.1)"
 date: 2025-09-16 09:00:00 -0400
 categories: [business, sales]
 tags: [manifesto, playbook, one-person]
 ---
+
+
 
 1) i’m small on purpose. that’s my edge.  
 2) i ship fast, talk straight, and own my misses.  
