@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "the one-person business + sales manifesto (draft 0.1)"
+title: "the one-person business + sales manifesto 
 date: 2025-09-16 09:00:00 -0400
 categories: [business, sales]
 tags: [manifesto, playbook, one-person]
