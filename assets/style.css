@@ -17,7 +17,7 @@ body {
   background: var(--bg);
   color: var(--text);
   font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
-  font-size: 19px;              /* bigger for 50+ readability */
+  font-size: 19px;
   line-height: 1.65;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -170,4 +170,39 @@ hr {
   margin: 0.5rem 0;
   color: var(--muted);
   font-size: 0.95rem;
+}
+
+/* Simple hero block (photo + quick context) */
+.hero {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin: 0.6rem 0 1rem;
+}
+
+.avatar {
+  width: 76px;
+  height: 76px;
+  border-radius: 999px;
+  object-fit: cover;
+  border: 1px solid var(--border);
+  background: #fff;
+  flex: 0 0 auto;
+}
+
+.avatar--lg {
+  width: 96px;
+  height: 96px;
+}
+
+@media (max-width: 560px) {
+  .hero {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .avatar {
+    width: 84px;
+    height: 84px;
+  }
 }

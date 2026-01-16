@@ -6,8 +6,8 @@ permalink: /disclosures/
 
 # Disclosures (plain English)
 
-- This website is for **educational and informational purposes only**.
-- Nothing here should be considered **investment, tax, or legal advice**.
+- This website is for educational and informational purposes only.
+- Nothing here should be considered investment, tax, or legal advice.
 - Nothing on this site is a recommendation to buy or sell any security.
 - Investing involves risk, including possible loss of principal.
 - I do not guarantee results.

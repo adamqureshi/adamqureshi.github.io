@@ -6,14 +6,23 @@ permalink: /about/
 
 # About
 
-I’m Adam Qureshi. My background is in **sales and client relationships** — helping people make confident decisions when the options feel overwhelming.
+<div class="hero">
+  <img class="avatar avatar--lg" src="/assets/img/adam.jpg" alt="Adam Qureshi headshot" loading="lazy" />
+  <div>
+    <div class="kicker">Adam Qureshi</div>
+    <div class="small">Bellport, NY (Long Island)</div>
+    <div class="small">Email: <a href="mailto:adamqureshi@gmail.com">adamqureshi@gmail.com</a></div>
+  </div>
+</div>
 
-Lately I’ve been focused on finance and long‑term investing. I’m building a simple service for people who want:
+My background is in sales and client relationships -- helping people make confident decisions when the options feel overwhelming.
 
-- a plan that’s easy to understand
-- a long‑term, diversified index approach
+Lately I have been focused on finance and long-term investing. I am building a simple service for people who want:
+
+- a plan that is easy to understand
+- a long-term, diversified index approach
 - consistency (automation + accountability)
 
-**Current status:** I’m studying for the **Series 65** and exploring affiliation with a registered investment adviser (RIA). Until that’s in place, this site is educational and I’m collecting interest for a small pilot.
+**Current status:** I am studying for the Series 65 and exploring affiliation with a registered investment adviser (RIA). Until that is in place, this site is educational and I am collecting interest for a small pilot.
 
 If you want to talk, email me: `adamqureshi@gmail.com`.

@@ -1,19 +1,8 @@
-# AdamQureshi.com simple site pack
+# Install notes
 
-This zip contains a minimal set of files to give your GitHub Pages (Jekyll) site:
-- light gray background
-- black typography
-- big readable mobile-first layout
-- Home / Blog / About / Disclosures pages
+1) Unzip and copy contents into the root of your GitHub Pages repo.
+2) Keep your existing CNAME file.
+3) If you already have these files, overwrite them.
+4) Copy _config_additions.yml lines into your _config.yml (optional).
 
-## How to use
-
-1. Unzip.
-2. Copy everything **into the root** of your existing repo.
-3. If Git asks to overwrite files (like `index.md` and `about.md`), choose overwrite.
-4. Commit + push to `main`.
-
-## Notes
-
-- Keep your existing `CNAME` file as-is.
-- `_config_additions.yml` is optional — only copy its contents into your existing `_config.yml` if you want.
+The headshot is included at: assets/img/adam.jpg
