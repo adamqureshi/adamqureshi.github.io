@@ -1,9 +1,9 @@
 title: Adam Qureshi
-description: Notes on building, selling, and staying small on purpose.
+description: Long-term index investing, explained simply.
 author: Adam Qureshi
 theme: minima
 
-url: https://adamqureshi.com
+url: "https://adamqureshi.com"
 timezone: America/New_York
 permalink: /:categories/:title/
 future: false
@@ -13,13 +13,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+# Optional: used by some themes for nav. Your custom layout already includes nav links,
+# but keeping this is fine.
 header_pages:
+  - blog.md
   - about.md
-
-url: https://adamqureshi.com
-timezone: America/New_York
-permalink: /:categories/:title/
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sitemap
+  - disclosures.md
