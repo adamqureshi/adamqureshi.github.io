@@ -1,0 +1,16 @@
+ONLYEV — DEALER LOGIN / ACTIVATION MVP
+
+Build one branded dealer-login page on www.onlyev.com for our ~10 existing advertising dealers. Their inventory is already imported. This is NOT a fresh dealer signup or DMS rebuild.
+
+Proposed link: https://www.onlyev.com/dealers/login?dealer=motorpoint
+Dashboard: https://www.onlyev.com/dealers/dashboard
+(These routes still need to be built.)
+
+1. Reuse the existing dealer records, auth system, inventory imports, and Stripe account. Manually approve each dealer's owner/manager email and optional SMS-capable phone, then link that user to the correct existing dealer ID before inviting them.
+2. Use ONE reusable ONLYEV-branded page with the dealer's name/logo. The dealer chooses email OR phone, gets a one-time code, verifies it, and enters the dashboard. No password, website-entry form, or inventory upload.
+3. Show only Inventory, Leads, and Billing. Inventory and leads must already be attached to that dealer. Keep existing lead delivery and inventory sync working.
+4. Already paying? Show the existing active plan and Manage billing. Do not charge again. Not subscribed? Let them review their dashboard and explicitly activate $199/month advertising using Stripe Checkout. Use Stripe's customer portal for billing management.
+5. Protect access by verified dealer membership, NOT the dealer name/slug in the URL. Another dealer's link must never expose their private leads or billing. Confirm subscription state with Stripe webhooks and prevent duplicate subscriptions.
+6. Reconcile existing payments/trials before rollout. Pilot Motorpoint, then invite the rest. Track invited, logged in, and paid separately. Login alone is not a conversion.
+
+Use the full HTML handoff on this site for screen copy, billing edge cases, security requirements, and release tests. Both files are public and require no login to read. This is a developer specification and visual example only; the real dealer login and billing features still need to be built.
