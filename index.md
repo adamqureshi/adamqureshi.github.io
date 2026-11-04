@@ -1,6 +1,6 @@
 ---
-layout: ads
-title: Ads by Adam — ChatGPT Ads, Done for You
+layout: build
+title: Build with Adam — Product Launches & Applied AI
 permalink: /
-description: ChatGPT advertising setup and management with Adam Qureshi. A simple pilot for business owners, from creative and launch to tracking and weekly reviews. Ad spend separate.
+description: Launch an original product or apply AI to your company. Work directly with Adam Qureshi on product strategy, focused pilots, workflow implementation, and team training.
 ---
